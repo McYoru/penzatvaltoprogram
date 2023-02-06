@@ -24,8 +24,13 @@ body{
 
 h1{
     color: #364547;
-    margin-left: 72px;
+    margin-left: 35px;
     margin-bottom: 0.5em;
+    font-family: sans-serif;
+}
+h2{
+    color: #364547;
+    margin-left: 72px;
     font-family: sans-serif;
 }
 
